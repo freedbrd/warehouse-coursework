@@ -5432,3 +5432,23 @@ ul.notifications {
 .nav.side-menu> li{
   cursor: pointer;
 }
+
+
+.about p{
+  background: #fff;
+  padding: 25px 10px;
+  margin-bottom: 0;
+  font-size: 1.1em;
+}
+.about .tile-stats{
+  min-height: 140px;
+}
+.stat{
+  margin-top: 15px;
+}
+.about h4{
+  margin-top: 22px;
+}
+.stat h3{
+  margin-top: 15px;
+}
